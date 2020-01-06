@@ -1,0 +1,20 @@
+{
+  "name": "pizza-delivery-cypress",
+  "version": "1.0.0",
+  "description": "Cypress tests for the Scenarioo Pizza Delivery example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "scenarioo",
+    "e2e",
+    "testing"
+  ],
+  "author": "Daniel Suter",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.1"
+  }
+}
