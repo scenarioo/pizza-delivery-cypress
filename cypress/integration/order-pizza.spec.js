@@ -1,5 +1,6 @@
 describe('Order a pizza and drinks from "Hot Pizza Delivery"', () => {
     it('Typical order process for a customer with a known phone number', () => {
+
         cy.visit('https://scenarioo.org/pizza-delivery/');
 
         cy.get('#phoneNumber').type('0791111111');
